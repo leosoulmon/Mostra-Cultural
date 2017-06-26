@@ -12,7 +12,7 @@
     </head>
 	<body class="container">
 		<header class="row">
-			<nav class="transparent z-depth-0 mcjp-menu mcjp-font-menu size-menu">
+			<nav class="transparent z-depth-0 mcjp-container-menu mcjp-font-menu">
 				<div class="nav-wrapper">
 					<a href="#">
 						<img id="container-logo" class="brand-logo left responsive-img" src="../img/logo-jp.png">
@@ -35,23 +35,17 @@
 						<i class="large material-icons btn-menu">menu</i>
 					</a>
 					<ul class="menu_close side-nav" id="mobile-demo">
-						<li>
-							<a href="#/home" class="menu_close">Home</a>
+						<li class="red">
+							<a href="#">O evento</a>
 						</li>
-						<li>
-							<a href="#/sobre" class="menu_close">Sobre</a>
+						<li class="mcjp-yellow">
+							<a href="#">Programação</a>
 						</li>
-						<li>
-							<a href="#/inscricoes" class="menu_close">Inscrições</a>
+						<li class="mcjp-purple">
+							<a href="#">Inscrição</a>
 						</li>
-						<li>
-							<a href="#/regulamento" class="menu_close">Regulamento</a>
-						</li>
-						<li>
-							<a href="#/ensinomedio" class="menu_close">Ensino Médio</a>
-						</li>
-						<li>
-							<a href="#/contato" class="menu_close">Contato</a>
+						<li class="mcjp-blue">
+							<a href="#">Contato</a>
 						</li>
 					</ul>
 				</div>
