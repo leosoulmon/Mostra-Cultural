@@ -1,0 +1,59 @@
+/*
+	mcjp = mostra cultural jean piaget
+	mc = mostra cultural
+*/
+@font-face{
+	font-family:jeans;
+	src:url("../font/skinny_jeans_solid.ttf");
+}
+html{
+	font-family: verdana;
+}
+.brand-logo{
+	width:155px;
+}
+.menu-mc li{
+	width:125px;
+	margin-right:25px;
+	margin-top:15px;
+	font-size: 24px;
+}
+.menu-mc li:last-child{
+	margin-right:0px;
+}
+.mcjp-menu{
+	line-height:40px;
+	height:90px;
+	padding: 10px;
+}
+.mcjp-font-menu{
+	font-family: jeans;
+}	
+.mcjp-yellow{
+	background:#e4b13b;
+}
+.mcjp-purple{
+	background:#79087e;
+}
+.mcjp-blue{
+	background:#3ca3d7;
+}
+header{
+	margin-top: 100px;
+}
+footer{
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.mc-start{
+	padding:100px 0px;
+}
+.mc-font-start{
+	font-size: 1.8rem;
+}
+.mc-font2-start{
+	font-size: 1.2rem;
+}
+/*.mc-logo-start{
+	margin:100px 0px;
+}*/
