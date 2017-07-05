@@ -1,15 +1,16 @@
 <!-- #include file="header_inicio.asp" -->
-<main class="row mcjp-yellow mc-start valign-wrapper">
-	<figure class="col l5 m4 s6">
-		<img src="../img/logo-mc-branco.png" class="responsive-img mc-logo-start">
-	</figure>
-	<div class="col l5 m6 s6 white-text">
-		<p class="mcjp-font-menu mc-font-start">
-			24 de setembro<br>
-			das 9h Ã s 13h
+<main class="red lighten-1 mcjp-evento white-text mcjp-font-menu">
+	<div class="container mcjp-evento-border">
+		<p class="row">
+			A tradicional Mostra Cultural do Colégio Jean Piaget procura estimular o prazer pela descoberta pela experimentação e pelo conhecimento, nas diferentes áreas do saber.
 		</p>
-		<p class="red-text mc-font2-start">
-			InscriÃ§Ãµes atÃ© 23 de setembro
+
+		<p class="row">
+			Durante o evento, que acontece sábado, dia 24 de setembro, das 9h às 13h, alunos, pais, professores e familiares terão a oportunidade de participar de palestras e oficinas em que serão trabalhados temas como lógica, criatividade, experiências científicas, entre outros.
+		</p>
+
+		<p class="row">
+			Inscrições até 22 de setembro, às 8h.
 		</p>
 	</div>
 </main>

@@ -34,19 +34,85 @@ html{
 .mcjp-blue{
 	background:#3ca3d7;
 }
+.mcjp-orange{
+	background:#ff954d;
+}
 footer{
-	padding-top:25px;
 	padding-bottom:25px;
 }
-.mc-start{
+.mcjp-logo-start{
+	min-width: 154px;
+}
+.mcjp-start{
 	padding:100px 0px;
 }
-.mc-font-start{
-	font-size: 1.8rem;
+.mcjp-evento{
+	padding:63px 0px;
+	font-size:1.4rem;
 }
-.mc-font2-start{
-	font-size: 1.2rem;
+.mcjp-evento-border{
+	border:2px solid white;
+	padding:10px 30px;
+}
+.mcjp-font-start{
+	font-size: 1.6rem;
+}
+.mcjp-font2-start{
+	font-size: 1rem;
+}
+.mcjp2-font-start{
+	font-size: 1rem;
+}
+.mcjp2-font2-start{
+	font-size: 0.8rem;
+}
+.mcjp-form, .mcjp-conteudo{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.mcjp-btn-enviar{
+	padding-right: 35px;
+}
+footer .container div div .footer-font-tit{
+	font-size: 1.4rem;
+}
+.input[type=text]{
+	border:#fff;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+	-webkit-appearance: none; 
+	margin: 0; 
 }
 /*.mc-logo-start{
 	margin:100px 0px;
-}*/
+}*/	
+[type="radio"]:checked+label:after, 
+[type="radio"].with-gap:checked+label:after,
+[type="radio"]:checked+label:after, 
+[type="radio"].with-gap:checked+label:after{
+	border:#ff9800;
+	background:#ff9800;
+}
+[type="checkbox"].filled-in:checked+label:after{
+	border:#ff9800;
+	background:#ff9800;
+}
+.mcjp-programacao-info-start{
+	font-weight: bold;
+	font-size: 1rem;
+	border:2px white solid;
+}
+.mcjp-tit-horario{
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+.mcjp-tit-palestra-prog{
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+.mcjp-border-prog .col{
+	padding: 15px;
+	border:white solid 2px;
+}
